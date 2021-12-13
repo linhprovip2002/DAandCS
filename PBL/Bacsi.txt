@@ -1,0 +1,7 @@
+6
+BS01,Phan Duc Huy,Nam,1989,0923657892,Ngoai than kinh
+BS02,Le Thi Nhan,Nu,1967,0926271425,Phu san
+BS03,Bui Trong Nhan,Nam,1968,0727392730,Cap cuu
+BS04,Pham Van B,Nam,1987,0827362918,Tim mach
+BS05,Nguyen Ngoc Cam,Nu,1988,0372454079,Rang ham mat
+BS06,Tran Thanh Thao,Nu,1876,0286527972,Ngoai

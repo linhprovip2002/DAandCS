@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="MAIN.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Quanly.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Benhnhan.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Bacsi.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="LKCP.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="login.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Quanly.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Benhnhan.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="Bacsi.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="LKCP.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="login.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="admin.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Lichkham.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="user.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Bacsi.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="Benhnhan.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+    <Text Include="LKCP.txt">
+      <Filter>Source Files</Filter>
+    </Text>
+  </ItemGroup>
+</Project>
